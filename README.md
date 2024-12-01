@@ -41,13 +41,53 @@ This project focuses on creating a knowledge base from up-to-date clinical resea
 We would eventually like to expand the project by incorporating additional research papers in order to create a more comprehensive knowledge base. And to expand on that, we would also like to create an interface for users to interact with the data visualization. This would allow users who are not as technologically advanced to be able to interact with our knowledge base. Finally, we would also like to refine our methods that we use to extract the nodes and relationships for our knowledge graph, possibly branching out to different types of extraction models, or retrieval methods.
 
 
-# File Structure
+# Directory Structure
 ```
 .
 ├── clinical-papers                    # Dataset - Research papers
 ├── important-resources                # Resources and helper files used to create our project
 ├── Group_30_Brightside_Health.ipynb   # Google Colab Notebook used to develop the Knowledge Graph
-└── README.md
+├── README.md
+└── requirements.txt                   # Requirements and specific version to run our code
 ```
 
 ## Installation
+
+**Prerequisites:**
+- Python 3
+- Google Collab account
+- Required Python libraries (listed in requirements.txt)
+
+**Steps:**
+
+1. _Clone the Repository:_
+
+```bash 
+git clone https://github.com/your-username/your-repository-name.git cd your-repository-name
+```
+  
+2. _Install Dependencies_
+   Install the necessary Python libraries using pip:
+
+```bash
+pip install numpy pandas matplotlib
+```
+
+3. _Run on Google Colab:_
+
+   - Upload the repository files to Google Drive.
+   
+   - Open the Colab notebook from Google Drive.
+   
+   - Ensure you have authorized Colab to access your Drive.
+
+4. _Run the Code:_
+	
+   Execute the cells in the provided Google Colab notebook step-by-step.
+
+## Credits and Acknowledgments
+
+Today marks the launch of our project, and we are truly excited to share this milestone. Over the past 10 weeks, we have gained invaluable insights and skills, thanks to the incredible support and expertise of everyone at BrightSide Health. We are especially grateful to our Challenge Advisor, Andrew, and all our teammates—Cami, Juhi, and Leilani—for fostering such a collaborative and enriching environment. It has been a privilege to work and learn alongside such talented individuals.
+
+
+We would also like to extend my heartfelt thanks to Break Through Tech and the Cornell Tech AI Program team for designing such an impactful program. We have already gained so much from this experience, and are eager to see what exciting developments the Spring AI Studio will bring.
