@@ -67,6 +67,7 @@ git clone https://github.com/your-username/your-repository-name.git cd your-repo
 ```
   
 2. _Install Dependencies_
+
    Install the necessary Python libraries using pip:
 
 ```bash
