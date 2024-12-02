@@ -1,5 +1,5 @@
 # Group 30 AI Studio Project: Knowledge graph from recent depression & anxiety research | Brightside Health
-- Authors: Leilani Titus | Camila Salinas Camacho | Juhi Manish Jain
+- Authors: Leilani Isabella Titus | Camila Salinas Camacho | Juhi Manish Jain
 
 ## Project Overview, Objectives, and Goals
 
@@ -55,7 +55,7 @@ We would eventually like to expand the project by incorporating additional resea
 
 **Prerequisites:**
 - Python 3
-- Google Collab account
+- Jupyter Notebook Environment
 - Required Python libraries (listed in requirements.txt)
 
 **Steps:**
