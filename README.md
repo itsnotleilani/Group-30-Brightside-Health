@@ -1,5 +1,5 @@
 # Group 30 AI Studio Project: Knowledge graph from recent depression & anxiety research | Brightside Health
-- Authors: Leilani Isabella Titus | Camila Salinas Camacho | Juhi Manish Jain
+- Authors: <a href="https://github.com/itsnotleilani" target="_blank">Leilani Isabella Titus</a> | Camila Salinas Camacho | Juhi Manish Jain
 
 ## Project Overview, Objectives, and Goals
 
