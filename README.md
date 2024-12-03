@@ -72,7 +72,7 @@ git clone https://github.com/camilasalinasc/Group-30-Brightside-Health.git cd Gr
    Install the necessary Python libraries using pip:
 
 ```bash
-pip install numpy pandas matplotlib
+pip install openai llama_index pyvis
 ```
 
 3. _Run on Google Colab:_
