@@ -63,7 +63,8 @@ We would eventually like to expand the project by incorporating additional resea
 1. _Clone the Repository:_
 
 ```bash 
-git clone https://github.com/your-username/your-repository-name.git cd your-repository-name
+git clone https://github.com/camilasalinasc/Group-30-Brightside-Health.git cd Group-30-Brightside-Health.git
+
 ```
   
 2. _Install Dependencies_
